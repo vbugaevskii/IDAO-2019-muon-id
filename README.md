@@ -30,7 +30,7 @@ More information about HEP MLPClassifier can be found [here](https://github.com/
 
 [`Track2-CPP`](https://github.com/vbugaevskii/IDAO-2019-muon-id/tree/master/Track2-CPP) contains C++ code for submission.
 
-**Note:** Final submission for track 2 is the advanced baseline submission. CatBoostClassfiers parameters:
+**Note:** Final submission for track 2 is the advanced baseline submission. CatBoostClassfier's parameters:
 ```json
 {
   "iterations": 1600,
