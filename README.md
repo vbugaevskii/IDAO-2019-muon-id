@@ -26,6 +26,8 @@ More information about HEP MLPClassifier can be found [here](https://github.com/
 
 ## Track 2
 
+[`Features-FOI.ipynb`](https://github.com/vbugaevskii/IDAO-2019-muon-id/blob/master/Features-FOI.ipynb) contains engineering of advanced features based on FOI features.
+
 [`Track2-CatBoostClassifier.ipynb`](https://github.com/vbugaevskii/IDAO-2019-muon-id/blob/master/Track2-CatBoostClassifier.ipynb) contains feature engineering and fitting model processes.
 
 [`Track2-CPP`](https://github.com/vbugaevskii/IDAO-2019-muon-id/tree/master/Track2-CPP) contains C++ code for submission.
