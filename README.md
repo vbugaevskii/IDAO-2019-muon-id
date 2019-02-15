@@ -35,7 +35,7 @@ More information about HEP MLPClassifier can be found [here](https://github.com/
 **Note:** Final submission for track 2 is the advanced baseline submission. CatBoostClassfier's parameters:
 ```json
 {
-  "iterations": 1600,
+  "iterations": 1700,
   "max_depth": 5
 }
 ```
