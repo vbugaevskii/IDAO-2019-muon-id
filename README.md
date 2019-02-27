@@ -39,3 +39,14 @@ More information about HEP MLPClassifier can be found [here](https://github.com/
   "max_depth": 5
 }
 ```
+
+## Leaderboard
+
+|             | public  | private |
+|-------------|---------|---------|
+| **Track 1** | 7613.14 | 7784.81 |
+| **Track 2** | 7253.11 | 7567.33 |
+
+Our team took the 10th place on private leaderboard acording to both tracks.
+
+**Note:** Original score is multiplied by 10 000.
